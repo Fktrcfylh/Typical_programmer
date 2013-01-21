@@ -1,0 +1,35 @@
+body{
+  background-image:url('../img/background.png');
+  background-color:#f2f2f2;
+}
+.center-column
+{
+  background-color:#fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 10px #aaa;
+  -moz-box-shadow: 0 0 10px #aaa;
+  box-shadow: 0 0 10px #aaa;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+ 
+}
+
+.post
+{
+  margin:1em;
+  padding:1em;
+  -webkit-box-shadow: 0 0 10px 5px #f2f2f2;
+  -moz-box-shadow: 0 0 10px 5px #f2f2f2;
+  box-shadow: 0 0 10px 5px #f2f2f2;
+}
+.likes{
+ 
+}
+a,p{
+  white-space: pre-wrap;
+  text-decoration: none;
+}
